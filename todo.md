@@ -11,7 +11,6 @@
 - Show all the stores in the stores list based on real world data DONE
 - Show the marker based on real world store data DONE
 
-- Show the info window
+...
 
--MAYBE: Show the window when you click on the individual store
--Maybe: Add a beautiful transition in the individual store
+## DONE ##
